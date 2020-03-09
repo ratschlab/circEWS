@@ -1,0 +1,29 @@
+138	"Sotalex Tabl 80 mg" (trade name of sotalol)
+138	"Sotalol Tabl 80 mg"
+300	"zzzzz" (what)
+300	"zzzzzMetronidazole tabl 200 mg"
+426	"Dobutamin"
+426	"Dobutrex 250 mg/20ml" (trade name of dobutamine)
+1000100	"EK" (???)
+1000100	"Red Cell conc"
+1000243	"Nitroglycerin Inf"
+1000243	"Perlinganit 1mg/ml inf" (nitroglycerin is an ingredient of perlinganit)
+1000293	"Captopril Tabl 12.5 mg"
+1000293	"Lopirin Tabl 12.5 mg" (captopril is an ingredient of lopirin)
+1000300	"Cefepime"
+1000300	"Cepimex" (cefepime is an ingredient of cepimex)
+1000300	"Maxipime" (cefepime hydrochloride is an ingredient of maxipime)
+1000346	"Brevibloc 100 mg / 10 ml" (trade name of esmolol)
+1000346	"Esmenol Amp. 100 mg /10 ml" (???)
+1000346	"Esmeron Amp. 100 mg /10 ml" (!!! not esmolol??)
+1000346	"Esmolol Amp. 100 mg /10 ml"
+1000414	"Lisinopril Tbl 20mg"
+1000414	"Lisitril Tbl 20mg" (lisinopril is an ingredient of lisitril)
+1000414	"Zestril Tbl 20mg" (trade name of lisinopril)
+1000415	"Lisinopril Tbl 5 mg" (see above)
+1000415	"Lisitril Tbl 5 mg"
+1000415	"Zestril Tbl 5 mg"
+1000436	"Beloc Inj Lsg" (beloc contains metoprolol)
+1000436	"Lopresor Inj Lsg 5mg/5 ml" (lopresor contains metoprolol)
+1000596	"Beloc COR Tbl 10 mg" (beloc contains metoprolol)
+1000596	"Metoprolol Tartrat Tbl 10 mg"

@@ -1,0 +1,99 @@
+vm1,	HR,	Heart rate
+vm2,	Temp,	Body Temperature Core
+vm3,	ABPs,	Arterial Blood Pressure systolic
+vm4,	ABPd,	Arterial Blood Pressure diastolic
+vm5,	ABPm,	Arterial Blood Pressure mean
+vm6,	NIBPs,	Non-invasive Blood Pressure systolic
+vm7,	NIBPs,	Non-invasive Blood Pressure diastolic
+vm8,	NIBPs,	Non-invasive Blood Pressure mean 
+vm9,	PAPm,	Pulmonary Blood Pressure mean
+vm10,	PAPs, 	PPulmonary Blood Pressure systolic
+vm11,	PAPd,	Pulmonary Blood Pressure diastolic
+vm12,	PCWP,   Pulmonary artery occlusion pressure 
+vm13,	CO,	Cardiac Output
+vm14,	SvO2, 	mixed venous oxygen saturation
+vm15,	ZVD,    central venous pressure
+vm16,	ECG_ST1,ECG ST1   
+vm17,	ECG_ST2,ECG ST2 
+vm18,	ECG_ST3,ECG ST3
+vm20,	SpO2,	Saturation Oxygen peripheral/capillary
+vm21,	ETCO2,	end tidal CO2 concentration
+vm22,	RR,	respiratory rate
+vm23,	O2,	supplemental oxygen
+vm24,	UO,	hourly urinary output
+vm25,	GCSv,	Glascow Coma Scale - verbal response
+vm26,	GCSm,	Glascow Coma Scale - motor
+vm27,	GCSe,	Glascow Coma Scale - eye
+vm28,	RASS,   Richmond Agitation Sedation Scale 
+vm31,	Fl_in, 	Hours Fluid Balance IN
+vm32,	Fl_out,	Hours Fluid Balance OUT
+vm33, 	Incrys,	infusion of cristalloids
+vm34,	Incoll,	infusion of colloids 
+vm35,	rbc_in,	infusion of blood products - packed red blood cells
+vm36,	FFP, 	Fresh Frozen Plasma Flowrate	
+vm37,	plt_in,	platelets Flow rate	
+vm39,	NEpi,	norepinephrine	Flow rate		
+vm40,	Epi,	epinephrine	Flow rate		
+vm41,	Dobu,	dobutamine	Flow rate		
+vm42,	Milri,	milrinone	Flow rate
+vm43,	lvsm,	levosimendan	Flow rate
+vm44, 	theoph,	theophyllin	Flow rate
+vm45,	VPN,	vasopressin	Flow rate
+vm46,	DPN,	desmopressin	Flow rate
+vm48,	ACE_I,	ACE Inhibitors	Flow rate
+vm49,	Sart,	Sartane		Flow rate	
+vm50,	Ca_Ant,	Ca Antagonists	Flow rate	
+vm51,	B_Bl,	Beta-Blocker	Flow rate	
+vm58,	FIO2,	fraction of inspired oxygen - % 	
+vm59,	Peep_s,	Positive End-Expiratory Pressure - cmH2O peep (s)
+vm59, 	Peep_m,	Positive End-Expiratory Pressure - cmH2O peep (m)
+vm61,	TV_m,	Tidal Volume TV(m)
+vm61,	TV_s,	Tidal Volume TV(s)
+vm62,	PPress,	Spitzendruck	cmH2O Spitzendruck
+vm63,	Pl_P,	Plateaudruck	cmH2O Plateaudruck
+vm64,	AWPm,	AWPmean
+vm65,	RRs,	RR set /min (respirator)
+vm69,	Diur,	Loop diuretics	Flow rate			
+vm77,	BZD,	Benzodiacepine	Flow rate	
+vm78,	A2A,	Alpha 2 Agonisten Flow rate	
+vm80,	PPF,	Propofol Flow rate	
+vm81,	Glc_in,	Glucose administration	Flow rate		
+vm82,	Ins_l,	Insulin	Langwirksam / long acting Flow rate		
+vm83,	Ins_s,	Insulin Kurzwirksam / short acting Flow rate
+vm86,	Opiate,	Opiate	Flow rate
+vm89,	Keta,	Ketalar	Flow rate	
+vm91,	Steroid,Steroids Flow rate	
+vm95,	Heparin,Heparin	Flow rate
+vm132,	a-BE,	Base Excess 		(arterial)
+vm135, 	a_HCO3-,Bicarbonate 		(arterial)
+vm136,	a_Lac,	Lactate 		(arterial)
+vm138,	a_pH,	pH 			(arterial)
+vm139,	a_pCO2, CO2 partial pressure 	(arterial)
+vm140,	a_PO2,	O2 partial pressure 	(arterial)	
+vm141,	a_SO2,	Saturation Oxygen 	(arterial)
+vm142,	ScvO2,	Central-venous saturation
+vm143,	Trop_T,	Troponin T
+vm144,	CK,	Creatine Kinase
+vm145, 	CK-MB, 	Creatine Kinase MB
+vm147,	BNP, 	brain natriuretic peptide
+vm148,	K+,	Potassium
+vm149,	Na+,	Sodium
+vm150,	Cl-,	Chloride
+vm151,	Ca2+i,	Calcium 2+ ionized
+vm152,	Ca2+t,	Calcium 2+ total
+vm153,	Phosph,	Phosphate
+vm155,	Urea,	Urea
+vm156,	Crea,	Creatinine
+vm160,	ASAT,	ASAT
+vm161,	ALAT,	ALAT
+vm162,	Bili_t,	Bilirubin total
+vm163,	Bili_d,	Bilirun direct
+vm164,	aP,	Alkaline Phosphatase
+vm165,	gGT,	gamma GT
+vm166,	aPTT,	aPPT 
+vm172,	INR,	INR
+vm173,	Alb,	Albumine
+vm174,	Glc,	Glucose
+vm175,	NH3,	Ammoniak
+vm176, 	CRP,	C-reactive protein
+vm177,	PCT,	Procalcitonine

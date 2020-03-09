@@ -1,0 +1,42 @@
+vm1,	HR,	Heart rate
+vm3,	ABPs,	Arterial Blood Pressure systolic
+vm4,	ABPd,	Arterial Blood Pressure diastolic
+vm5,	ABPm,	Arterial Blood Pressure mean
+vm9,	PAPm,	Pulmonary Blood Pressure mean
+vm10,	PAPs, 	PPulmonary Blood Pressure systolic
+vm11,	PAPd,	Pulmonary Blood Pressure diastolic
+vm13,	CO,	Cardiac Output
+vm14,	SvO2, 	mixed venous oxygen saturation
+vm15,	ZVD,    central venous pressure
+vm17,	ECG_ST2,ECG ST2 
+vm18,	ECG_ST3,ECG ST3
+vm20,	SpO2,	Saturation Oxygen peripheral/capillary
+vm21,	ETCO2,	end tidal CO2 concentration
+vm22,	RR,	respiratory rate
+vm23,	O2,	supplemental oxygen
+vm24,	UO,	hourly urinary output
+vm25,	GCSv,	Glascow Coma Scale - verbal response
+vm26,	GCSm,	Glascow Coma Scale - motor
+vm27,	GCSe,	Glascow Coma Scale - eye
+vm28,	RASS,   Richmond Agitation Sedation Scale 
+vm31,	Fl_in, 	Hours Fluid Balance IN
+vm33, 	Incrys,	infusion of cristalloids
+vm58,	FIO2,	fraction of inspired oxygen - % 	
+vm59,	Peep_s,	Positive End-Expiratory Pressure - cmH2O peep (s)
+vm61,	TV_s,	Tidal Volume TV(s)
+vm62,	PPress,	Spitzendruck	cmH2O Spitzendruck
+vm63,	Pl_P,	Plateaudruck	cmH2O Plateaudruck
+vm64,	AWPm,	AWPmean
+vm65,	RRs,	RR set /min (respirator)
+vm138,	a_pH,	pH 			(arterial)
+vm139,	a_pCO2, CO2 partial pressure 	(arterial)
+vm140,	a_PO2,	O2 partial pressure 	(arterial)	
+vm141,	a_SO2,	Saturation Oxygen 	(arterial)
+vm142,	ScvO2,	Central-venous saturation
+vm150,	Cl-,	Chloride
+vm151,	Ca2+i,	Calcium 2+ ionized
+vm155,	Urea,	Urea
+vm156,	Crea,	Creatinine
+vm160,	ASAT,	ASAT
+vm161,	ALAT,	ALAT
+vm174,	Glc,	Glucose

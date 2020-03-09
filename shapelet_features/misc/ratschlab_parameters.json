@@ -1,0 +1,14 @@
+{
+    "subsample_for_bin": 50000,
+    "is_unbalance": true,
+    "min_split_gain": 0,
+    "min_child_weight": 1e-3,
+    "min_child_samples": 20,
+    "subsample": 1,
+    "subsample_freq": 0,
+    "reg_alpha": 0,
+    "reg_lambda": 0,
+    "random_state": 2018,
+    "learning_rate": 0.1,
+    "n_estimators": 500
+}
