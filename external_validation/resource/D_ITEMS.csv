@@ -1,0 +1,58 @@
+unk,ITEM_ID,varname,unk,,mID,varname2,system,table,type,unit,dtype
+12960,221289,Epinephrine,1,,40,Epinephrine,metavision,inputevents_mv,Medications,mg,Solution
+12971,221653,Dobutamine,1,,41,Dobutamine,metavision,inputevents_mv,Medications,mg,Solution
+15341,228154,Impella 2.5 Flow Rate,1,,exclusion,Impella 2.5 Flow Rate,metavision,chartevents,Impella,L/min,Numeric
+15346,228160,Impella Aortic Pressure Tubing Change,1,,exclusion,Impella Aortic Pressure Tubing Change,metavision,datetimeevents,Access Lines - Invasive,,Date time
+15347,228162,Impella Catheter Position,1,,exclusion,Impella Catheter Position,metavision,chartevents,Access Lines - Invasive,cm,Numeric
+15348,228163,Impella Catheter Repositioned,1,,exclusion,Impella Catheter Repositioned,metavision,chartevents,Access Lines - Invasive,,Checkbox
+15349,228164,Impella Catheter Site,1,,exclusion,Impella Catheter Site,metavision,chartevents,Access Lines - Invasive,,Text
+15350,228165,Impella Daily Tubing Change,1,,exclusion,Impella Daily Tubing Change,metavision,datetimeevents,Access Lines - Invasive,,Date time
+15351,228166,Impella Dressing Change,1,,exclusion,Impella Dressing Change,metavision,datetimeevents,Access Lines - Invasive,,Date time
+15352,228167,Impella Dressing Occlusive,1,,exclusion,Impella Dressing Occlusive,metavision,chartevents,Access Lines - Invasive,,Checkbox
+15353,228168,Impella Insertion Date,1,,exclusion,Impella Insertion Date,metavision,datetimeevents,Access Lines - Invasive,,Date time
+15354,228169,Impella Line,1,,exclusion,Impella Line,metavision,procedureevents_mv,Access Lines - Invasive,None,Process
+15355,228170,Impella Line Discontinued,1,,exclusion,Impella Line Discontinued,metavision,chartevents,Access Lines - Invasive,,Text
+15356,228171,Impella Placement Confirmed,1,,exclusion,Impella Placement Confirmed,metavision,chartevents,Access Lines - Invasive,,Text
+15357,228172,Impella Postion Confirmed,1,,exclusion,Impella Position Confirmed,metavision,chartevents,Access Lines - Invasive,,Text
+15358,228173,Impella Position,1,,exclusion,Impella Position,metavision,chartevents,Access Lines - Invasive,,Text
+15359,228174,Impella Line Site Appear,1,,exclusion,Impella Line Site Appear,metavision,chartevents,Access Lines - Invasive,,Text
+14665,226987,APACHE IV diagnosis,1,,static,APACHE IV diagnosis,metavision,chartevents,Scores - APACHE IV,,Text
+14666,226988,APACHE IV main groups non-operative,1,,static,APACHE IV main group non-operatives,metavision,chartevents,Scores - APACHE IV,,Text
+14667,226989,APACHE IV main groups operative,1,,static,APACHE IV main group operative,metavision,chartevents,Scores - APACHE IV,,Text
+12984,221906,Norepinephrine,1,,39,Norepinephrine,metavision,inputevents_mv,Medications,mg,Solution
+12997,222315,Vasopressin,1,,45,Vasopressin,metavision,inputevents_mv,Medications,units,Solution
+15498,228369,Cardiac Output (CO NICOM),1,,13,Cardiac Output (CO NICOM),metavision,chartevents,NICOM,L/min,Numeric
+13249,224695,Peak Insp. Pressure,1,,62,Peak Insp. Pressure,metavision,chartevents,Respiratory,cmH2O,Numeric
+13250,224696,Plateau Pressure,1,,63,Plateau Pressure,metavision,chartevents,Respiratory,cmH2O,Numeric
+14758,227444,C Reactive Protein (CRP),1,,176,C Reactive Protein (CRP),metavision,chartevents,Labs,None,Numeric with tag
+13110,224322,IABP Mean,1,,5,MAP - Assisted,metavision,chartevents,IABP,mmHg,Numeric
+14788,227543,CO (Arterial),1,,13,CO (Arterial),metavision,chartevents,Hemodynamics,L/min,Numeric
+14089,225634,CK (CPK),1,,144,CK (CPK),metavision,chartevents,Labs,None,Numeric
+14111,225664,Glucose finger stick,1,,174,Glucose finger stick,metavision,chartevents,Labs,None,Numeric
+14112,225667,Ionized Calcium,1,,151,Ionized Calcium,metavision,chartevents,Labs,None,Numeric
+14113,225668,Lactic Acid,1,,146,Lactic Acid,metavision,chartevents,Labs,None,Numeric
+13444,224842,Cardiac Output (CCO),1,,13,CO (CCO),metavision,chartevents,Hemodynamics,L/min,Numeric
+13433,224660,ECMO,1,,exclusion,ECMO,metavision,chartevents,Hemodynamics,L/min,Numeric
+12686,220546,WBC,1,,184,WBC,metavision,chartevents,Labs,None,Numeric
+12699,220621,Glucose (serum),1,,174,Glucose (serum),metavision,chartevents,Labs,None,Numeric
+12712,220045,Heart Rate,1,,1,HR,metavision,chartevents,Routine Vital Signs,bpm,Numeric
+12718,220052,Arterial Blood Pressure mean,1,,5,ABPm,metavision,chartevents,Routine Vital Signs,mmHg,Numeric
+12730,220088,Cardiac Output (thermodilution),1,,13,CO (thermodilution),metavision,chartevents,Hemodynamics,L/min,Numeric
+12732,220125,Left Ventricular Assit Device Flow,1,,exclusion,LVAD,metavision,chartevents,Hemodynamics,L/min,Numeric
+12733,220128,Right Ventricular Assist Device Flow,1,,exclusion,RVAD,metavision,chartevents,Hemodynamics,L/min,Numeric
+12743,220235,Arterial CO2 Pressure,1,,139,PCO2 (Arterial),metavision,chartevents,Labs,mmHg,Numeric
+13625,224828,Arterial Base Excess,1,,132,Arterial Base Excess,metavision,chartevents,Labs,None,Numeric
+15178,228178,CO (PiCCO),1,,13,CO (PiCCO),metavision,chartevents,PiCCO,L/min,Numeric
+14391,226512,Admission Weight (Kg),1,,131,Admission Weight (Kg),metavision,chartevents,General,kg,Numeric
+14392,226515,Date of Birth,1,,static,DOB,metavision,datetimeevents,ADT,,Date time
+14401,226531,Admission Weight (lbs.),1,,131,Admission Weight (lbs.),metavision,chartevents,General,None,Numeric
+14406,226537,Glucose (whole blood),1,,174,Glucose (whole blood),metavision,chartevents,Labs,None,Numeric
+14492,226707,Height,1,,static,Height,metavision,chartevents,General,Inch,Numeric
+14496,226730,Height (cm),1,,static,Height (cm),metavision,chartevents,General,cm,Numeric
+12746,220277,O2 saturation pulseoxymetry,1,,20,SpO2,metavision,chartevents,Respiratory,%,Numeric
+12804,223835,Inspired O2 Fraction,1,,58,FiO2,metavision,chartevents,Respiratory,None,Numeric
+13689,225312,ART BP mean,1,,5,ART BP mean,metavision,chartevents,Routine Vital Signs,mmHg,Numeric
+13420,224639,Daily Weight,1,,131,Daily Weight,metavision,chartevents,General,kg,Numeric
+15236,228242,Pt. Temperature (BG) (SOFT),1,,,Pt. Temperature (BG) (SOFT),metavision,chartevents,Labs,None,Numeric
+12757,223761,Temperature Fahrenheit,1,,,Temperature F,metavision,chartevents,Routine Vital Signs,?F,Numeric
+12758,223762,Temperature Celsius,1,,2,Temperature C,metavision,chartevents,Routine Vital Signs,?C,Numeric

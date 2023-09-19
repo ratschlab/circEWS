@@ -1,0 +1,15 @@
+unk,ITEM_ID,varname,mID,unk,organ,type,unk
+3,50802,Base Excess,132,1,Blood,Blood Gas,11555-0
+9,50808,Free Calcium,151,1,Blood,Blood Gas,1994-3
+10,50809,Glucose,174,1,Blood,Blood Gas,2339-0
+14,50813,Lactate,136,1,Blood,Blood Gas,32693-4
+18,50817,Oxygen Saturation,141,1,Blood,Blood Gas,20564-1
+19,50818,pCO2,140,1,Blood,Blood Gas,11557-6
+90,50889,C-Reactive Protein,176,1,Blood,Chemistry,1988-5
+94,50893,"Calcium, Total",152,1,Blood,Chemistry,2000-8
+111,50910,Creatine Kinase (CK),144,1,Blood,Chemistry,2157-6
+132,50931,Glucose,174,1,Blood,Chemistry,2345-7
+161,50960,Magnesium,154,1,Blood,Chemistry,2601-3
+171,50970,Phosphate,153,1,Blood,Chemistry,2777-1
+206,51006,Urea Nitrogen,155,1,Blood,Chemistry,3094-0
+500,51300,WBC Count,184,1,Blood,Hematology,26464-8
