@@ -1,0 +1,83 @@
+MetaVariableID	Category	VariableName	VariableID	LowerBound	UpperBound	NormalValue
+132		a-BE	20001300	-30.0	30.0	0.0
+133		a_COHb	24000526	0.0	20.0	1.0
+134		a_Hb	24000548	20.0	200.0	137.0
+135		a_HCO3-	20004200	0.0	50.0	24.0
+136		a_Lac	24000524	0.0	15.0	1.0
+137		a_MetHb	24000549	0.0	20.0	0.7
+138		a_pH	20000300	6.5	7.8	7.4
+139		a_pCO2	20001200	3.0	100.0	40.0
+140		a_PO2	20000200	20.0	500.0	87.0
+141		a_SO2	20000800	10.0	100.0	96.0
+142		Zentral venöse sättigung	20001000	0.0	85.0	65.0
+142		Zentral venöse sättigung	24000737	0.0	85.0	
+143		Troponin-T	24000538	0.0	15000.0	200.0
+143		Troponin-T	24000806	0.0	15000.0	
+144		creatine kinase	24000210	0.0	300000.0	50.0
+145		creatine kinase-MB	24000220	0.0	2000.0	50.0
+146		v-Lac	24000732	0.0	15.0	1.0
+146		v-Lac	24000485	0.0	15.0	1.0
+147		BNP	24000569	0.0	100000.0	50.0
+148	Lab values renal	K+	20000500	2.0	12.0	3.9
+148	Lab values renal	K+	24000520	2.0	12.0	
+148	Lab values renal	K+	24000833	2.0	12.0	
+148	Lab values renal	K+	24000867	2.0	12.0	
+149	Lab values renal	Na+	20000400	105.0	170.0	140.0
+149	Lab values renal	Na+	24000519	105.0	170.0	
+149	Lab values renal	Na+	24000658	105.0	170.0	
+149	Lab values renal	Na+	24000835	105.0	170.0	
+149	Lab values renal	Na+	24000866	105.0	170.0	
+150	Lab values renal	Cl-	24000439	60.0	140.0	103.0
+150	Lab values renal	Cl-	24000521	60.0	140.0	
+151	Lab values renal	Ca2+ ionizied	24000522	0.0	3.0	1.2
+152	Lab values renal	Ca2+ total	20005100	0.0	4.0	2.4
+153	Lab values renal	phosphate	20002500	0.0	5.0	1.13
+154	Lab values renal	Mg	24000230	0.0	5.0	0.78
+155	Lab values renal	Urea	20004100	0.0	60.0	4.6
+156	Lab values renal	creatinine	20000600	0.0	1500.0	65.0
+157	Lab values urine	urinary creatinin	24000572	0.0	25000.0	300.0
+157	Lab values urine	urinary creatinin	24000573	0.0	25000.0	
+158	Lab values urine	urinary Na+	20003200	0.0	300.0	20.0
+159	Lab values urine	urinary urea	24000754	0.0	600.0	40.0
+160	Lab values liver	ASAT	24000330	0.0	30000.0	25.0
+161	Lab values liver	ALAT	20002600	0.0	12000.0	25.0
+162	Lab values liver	bilirubine, total	20004300	0.0	1000.0	2.0
+163	Lab values liver	Bilirubin, direct	24000560	0.0	800.0	2.0
+164	Lab values liver	alkaline phosphatase	20002700	0.0	3000.0	85.0
+165	Lab values liver	gamma-GT	24000370	0.0	2500.0	30.0
+166	Gerinnung	aPTT	20004410	0.0	300.0	30.0
+167	Gerinnung	Fibrinogen	24000536	0.0	12.0	2.9
+168	Gerinnung	FII	24000666	0.0	200.0	108.0
+169	Gerinnung	Factor V	24000637	0.0	250.0	117.0
+170	Gerinnung	Factor VII	24000552	0.0	500.0	104.0
+171	Gerinnung	factor X	24000667	0.0	170.0	110.0
+172	Gerinnung	INR	24000567	0.0	8.0	0.95
+173	Gerinnung	albumin	24000605	0.0	70.0	38.0
+174	Gerinnung	glucose	20005110	0.0	60.0	5.0
+174	Gerinnung	glucose	24000523	0.0	60.0	
+174	Gerinnung	glucose	24000585	0.0	60.0	
+175	Gerinnung	'Ammoniak'	24000568	0.0	600.0	37.0
+176	infection/inflamation	C-reactive protein	20002200	0.0	600.0	4.0
+177	infection/inflamation	procalcitonin	24000570	0.0	200.0	0.0
+178	infection/inflamation	lymphocyte	24000480	0.0	100.0	2.3
+179	infection/inflamation	Neutr	24000550	0.0	100.0	4.5
+180	infection/inflamation	Segm. Neut.	24000556	0.0	100.0	55.0
+181	infection/inflamation	Stabk. Neut.	24000557	0.0	100.0	10.0
+182	infection/inflamation	BSR	24000668	0.0	150.0	10.0
+183	hematology general	Hb	20000900	20.0	200.0	135.0
+183	hematology general	Hb	24000836	20.0	200.0	
+184	hematology general	total white blood cell count	20000700	0.0	300.0	7.0
+185	hematology general	platelet count	20000110	0.0	1500.0	300.0
+186	hematology general	MCH	24000160	15.0	45.0	30.0
+187	hematology general	MCHC	24000170	260.0	400.0	340.0
+188	hematology general	MCV	24000150	60.0	130.0	99.0
+189	hematology general	'Ferritin'	24000678	0.0	150000.0	135.0
+190	Others	TSH	24000664	0.0	60.0	2.3
+191	Others	'AMYL-S'	24000427	0.0	2000.0	33.0
+192	Others	Lipase	24000555	0.0	4000.0	37.0
+193	Others	'Cortisol'	24000665	0.0	6000.0	300.0
+194	Liquor	pH Liquor	24000608	7.5	8.5	7.35
+195	Liquor	Laktat Liquor	24000564	0.0	20.0	1.65
+196	Liquor	Glucose Liquor	24000400	5.0	15.0	3.0
+197	Drain	'pH Drain'	24000741	6.5	8.5	7.4
+198	Drain	'AMYL-Drainag'	24000587	0.0	60000.0	0.0
